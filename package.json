@@ -1,7 +1,7 @@
 {
   "name": "oryza-utils",
   "version": "1.0.0",
-  "description": "",
+  "description": "An npm Package for Wechat to retrieve information in JSON from the oryzasoft.com API.",
   "main": "index.js",
   "scripts": {
     "build": "labrador build",
@@ -49,5 +49,16 @@
     "reselect": "^2.5.4",
     "rxjs": "^5.0.0-beta.12",
     "seamless-immutable": "^6.3.0"
-  }
+  },
+  "author": "Weiwei Wang",
+  "license": "MIT",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/w-ww/oryza-utils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/w-ww/oryza-utils/issues"
+  },
+  "homepage": "https://github.com/w-ww/oryza-utils#readme"
 }
