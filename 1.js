@@ -1,2 +1,1 @@
-//master1hello world
-//master1
+//hello world
